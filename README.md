@@ -1,0 +1,1 @@
+# shelly_esphome_firmware
